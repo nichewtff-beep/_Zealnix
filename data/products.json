@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "archive-wide-cargo-jeans",
+    "name": "ARCHIVE WIDE-LEG CARGO JEANS",
+    "category": "jeans",
+    "categoryLabel": "HEAVYWEIGHT DENIM JEANS",
+    "subtitle": "Washed black wide-leg streetwear denim featuring reinforced cargo utility pockets.",
+    "price": 1499,
+    "originalPrice": 1799,
+    "label": "NEW",
+    "image": "/src/assets/images/ChatGPT Image Oct 17, 2026, 03_17_58 PM.png",
+    "gallery": [
+      "/src/assets/images/ChatGPT Image Oct 17, 2026, 03_17_58 PM.png",
+      "/src/assets/images/brand_editorial_texture_1791889116081.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Washed Charcoal",
+        "hex": "#2B2B2B"
+      },
+      {
+        "name": "Onyx Black",
+        "hex": "#111211"
+      }
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": 24,
+    "description": "Washed black wide-leg streetwear denim featuring reinforced cargo utility pockets.",
+    "gsm": "14oz Ring-Spun Cotton Denim",
+    "fit": "OVERSIZED",
+    "details": [
+      "100% Ring-Spun Cotton Denim (14oz)",
+      "Subtle mineral stone enzyme wash",
+      "Reinforced rivet hardware and custom YKK zip fly"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "raw-indigo-stacked-denim",
+    "name": "RAW INDIGO STACKED DENIM",
+    "category": "jeans",
+    "categoryLabel": "Japanese Selvedge Denim",
+    "subtitle": "Deep indigo rigid stacked denim jeans with copper rivets, contrast stitching, and roll-up selvedge cuff.",
+    "price": 1699,
+    "originalPrice": 1999,
+    "label": "BEST SELLER",
+    "image": "/src/assets/images/ChatGPT Image Oct 17, 2026, 03_18_16 PM.png",
+    "gallery": [
+      "/src/assets/images/ChatGPT Image Oct 17, 2026, 03_18_16 PM.png"
+    ],
+    "colors": [
+      {
+        "name": "Raw Deep Indigo",
+        "hex": "#1B263B"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": 18,
+    "description": "Crafted from authentic 14.5oz Japanese shuttle-loom selvedge denim. Unwashed rigid finish engineered to develop personalized whiskers over time.",
+    "gsm": "14.5oz Japanese Selvedge Denim",
+    "fit": "Stacked Straight Leg Silhouette",
+    "details": [
+      "14.5oz Red-line Japanese shuttle loom selvedge denim",
+      "Solid copper donut button fly and embossed rivets"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "vintage-stonewash-baggy-jeans",
+    "name": "VINTAGE STONEWASH BAGGY JEANS",
+    "category": "jeans",
+    "categoryLabel": "Oversized Streetwear Jeans",
+    "subtitle": "Heavily stone-washed baggy denim with authentic whiskering, subtle distressing, and 90s skater cut.",
+    "price": 1499,
+    "originalPrice": 1699,
+    "label": "LIMITED",
+    "image": "/src/assets/images/streetwear_baggy_jeans_1792147547393.jpg",
+    "gallery": [
+      "/src/assets/images/streetwear_baggy_jeans_1792147547393.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Acid Washed Black",
+        "hex": "#333333"
+      }
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": 12,
+    "description": "Throwback loose skater cut with generous knee clearance and subtle hand-distressed whiskers. Washed down for soft drape.",
+    "gsm": "13.5oz Durable Slub Denim",
+    "fit": "Oversized 90s Skater Baggy Fit",
+    "details": [
+      "13.5oz Cotton Slub Denim",
+      "Acid and stone wash finish"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "midnight-butterfly-baggy-jeans",
+    "name": "MIDNIGHT BUTTERFLY BAGGY JEANS",
+    "category": "jeans",
+    "categoryLabel": "JEANS",
+    "subtitle": "BAGGY FIT / RUSTIC BUTTERFLY PATCH",
+    "price": 1499,
+    "originalPrice": 1899,
+    "label": "Y2K VIBE",
+    "image": "/Photos/IMG_20261027_220311.jpg",
+    "gallery": [
+      "/Photos/IMG_20261027_220311.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Washed Black",
+        "hex": "#262626"
+      }
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": 25,
+    "description": "Black-washed wide-leg denim featuring frayed front pockets and striking contrast-stitched butterfly patches on the right leg.",
+    "gsm": "14oz Milled Ring-Spun Denim",
+    "fit": "BAGGY FIT / RUSTIC BUTTERFLY PATCH",
+    "details": [
+      "Black-washed wide-leg denim featuring frayed front pockets and striking contrast-stitched butterfly patches on the right leg.",
+      "14oz ring-spun cotton denim with vintage enzyme wash",
+      "Raw distressed frayed pocket openings",
+      "Contrast-stitched rustic butterfly patches down the leg",
+      "Ultra-relaxed wide-leg silhouette that stacks over sneakers"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "smoke-wash-grunge-denim",
+    "name": "SMOKE WASH GRUNGE DENIM",
+    "category": "jeans",
+    "categoryLabel": "JEANS",
+    "subtitle": "SUPER BAGGY FIT / ACID DISTRESSED",
+    "price": 1599,
+    "originalPrice": 1999,
+    "label": "STREET FAV",
+    "image": "/Photos/IMG_20261027_220322.jpg",
+    "gallery": [
+      "/Photos/IMG_20261027_220322.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Smokey Acid Charcoal",
+        "hex": "#383838"
+      }
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": 25,
+    "description": "Smokey dark-wash vintage distressed denim with an ultra-baggy silhouette designed for effortless streetwear stacking.",
+    "gsm": "14.5oz Vintage Distressed Denim",
+    "fit": "SUPER BAGGY FIT / ACID DISTRESSED",
+    "details": [
+      "Smokey dark-wash vintage distressed denim with an ultra-baggy silhouette designed for effortless streetwear stacking.",
+      "14.5oz heavy slub denim with authentic acid smoke wash",
+      "Subtle whisker fading and hand-distressed edge abrasion",
+      "Generous thigh and leg opening for fluid drape",
+      "Branded ZEALNIX matte black metal button hardware"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "anime-stripe-utility-jeans",
+    "name": "ANIME STRIPE UTILITY JEANS",
+    "category": "jeans",
+    "categoryLabel": "JEANS",
+    "subtitle": "BAGGY FIT / PINSTRIPE & EMBROIDERY",
+    "price": 1699,
+    "originalPrice": 2099,
+    "label": "TRENDING",
+    "image": "/Photos/IMG_20261028_110122.jpg",
+    "gallery": [
+      "/Photos/IMG_20261028_110122.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Indigo Pinstripe",
+        "hex": "#2C4368"
+      }
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": 20,
+    "description": "Blue pinstriped denim jeans styled with multi-graphic anime embroideries, contrast piping, and utility pockets.",
+    "gsm": "13.5oz Pinstriped Twill Denim",
+    "fit": "BAGGY FIT / PINSTRIPE & EMBROIDERY",
+    "details": [
+      "Blue pinstriped denim jeans styled with multi-graphic anime embroideries, contrast piping, and utility pockets.",
+      "13.5oz fine pinstriped indigo twill denim",
+      "Vibrant anime character needlework embroideries",
+      "Contrast white side piping and tactical carpenter utility loop",
+      "Relaxed skater baggy drape"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "cobalt-side-panel-stacked-jeans",
+    "name": "COBALT SIDE-PANEL STACKED JEANS",
+    "category": "jeans",
+    "categoryLabel": "JEANS",
+    "subtitle": "SUPER BAGGY FIT / CONTRAST SIDE PANELS",
+    "price": 1599,
+    "originalPrice": 1999,
+    "label": "HEAVYWEIGHT",
+    "image": "/Photos/IMG_20261028_105250.jpg",
+    "gallery": [
+      "/Photos/IMG_20261028_105250.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Deep Cobalt Indigo",
+        "hex": "#1E2B45"
+      }
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "stock": 22,
+    "description": "Deep indigo blue wide-leg jeans featuring dark patterned side-panel inserts and a relaxed low-waist structure.",
+    "gsm": "14oz Ring-Spun Rigid Denim",
+    "fit": "SUPER BAGGY FIT / CONTRAST SIDE PANELS",
+    "details": [
+      "Deep indigo blue wide-leg jeans featuring dark patterned side-panel inserts and a relaxed low-waist structure.",
+      "14oz deep indigo ring-spun rigid denim",
+      "Intricate dark patterned jacquard side-panel inserts",
+      "Extended inseam designed for clean ankle stacks",
+      "Double-needle felled seams for rugged longevity"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "heavy-shadow-plaid-flannel",
+    "name": "HEAVY SHADOW-PLAID OVERSHIRT",
+    "category": "shirts",
+    "categoryLabel": "Heavyweight Flannel Shirt",
+    "subtitle": "Boxy drop-shoulder flannel overshirt in monochrome shadow plaid with twin patch chest pockets.",
+    "price": 1399,
+    "originalPrice": 1599,
+    "label": "BEST SELLER",
+    "image": "/src/assets/images/ChatGPT Image Oct 17, 2026, 03_00_23 PM.png",
+    "gallery": [
+      "/src/assets/images/ChatGPT Image Oct 17, 2026, 03_00_23 PM.png"
+    ],
+    "colors": [
+      {
+        "name": "Stealth Black",
+        "hex": "#1C1C1E"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 22,
+    "description": "Engineered as an outerwear layer or standalone statement piece. 380GSM brushed double-weave cotton with boxy streetwear silhouette.",
+    "gsm": "380GSM Brushed Heavy Flannel",
+    "fit": "Boxy Drop-Shoulder Overshirt",
+    "details": [
+      "Double-brushed cotton yarn",
+      "Dual bellows flap chest pockets"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "tactical-box-work-shirt",
+    "name": "TACTICAL BOX WORK SHIRT",
+    "category": "shirts",
+    "categoryLabel": "Technical Workwear Shirt",
+    "subtitle": "Camp collar technical utility work shirt with modular webbing, metal D-ring, and concealed snap closures.",
+    "price": 1499,
+    "originalPrice": 1799,
+    "label": "NEW",
+    "image": "/src/assets/images/ChatGPT Image Oct 17, 2026, 02_58_37 PM.png",
+    "gallery": [
+      "/src/assets/images/ChatGPT Image Oct 17, 2026, 02_58_37 PM.png"
+    ],
+    "colors": [
+      {
+        "name": "Cyber Black",
+        "hex": "#101214"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 15,
+    "description": "Utility meets modern editorial tailoring. Constructed from water-repellent cotton-ripstop blend with matte black hardware.",
+    "gsm": "320GSM Heavy Cotton-Ripstop",
+    "fit": "Structured Square Cut",
+    "details": [
+      "Matte black stainless hardware",
+      "Concealed magnetic snap placket"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "green-half-zip-overshirt",
+    "name": "GREEN HALF ZIP",
+    "category": "shirts",
+    "categoryLabel": "SHIRTS",
+    "subtitle": "BOXY FIT / HALF ZIP OVERSHIRT",
+    "price": 799,
+    "originalPrice": 999,
+    "label": "NEW",
+    "image": "/PHOTOS/ChatGPT Image Oct 22, 2026, 04_33_31 PM.png",
+    "gallery": [
+      "/PHOTOS/ChatGPT Image Oct 22, 2026, 04_33_31 PM.png"
+    ],
+    "colors": [
+      {
+        "name": "Forest Green / Cream",
+        "hex": "#1C352D"
+      },
+      {
+        "name": "Onyx Contrast",
+        "hex": "#111211"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 25,
+    "description": "Dark green boxy-fit short-sleeve shirt with a half-zip collar and cream white side panel inserts.",
+    "gsm": "320 GSM Cotton Twill",
+    "fit": "Boxy Fit / Half-Zip Overshirt",
+    "details": [
+      "Dark green boxy-fit short-sleeve shirt with a half-zip collar and cream white side panel inserts.",
+      "Heavyweight 320 GSM structured cotton weave",
+      "Silver-tone industrial half-zip pull"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "white-printed-tee-resort-shirt",
+    "name": "WHITE PRINTED TEE",
+    "category": "shirts",
+    "categoryLabel": "SHIRTS",
+    "subtitle": "LINEN BLEND / OVERSIZED FIT",
+    "price": 679,
+    "originalPrice": 899,
+    "label": "NEW",
+    "image": "/PHOTOS/ChatGPT Image Oct 22, 2026, 04_34_26 PM.png",
+    "gallery": [
+      "/PHOTOS/ChatGPT Image Oct 22, 2026, 04_34_26 PM.png"
+    ],
+    "colors": [
+      {
+        "name": "Off-White / Cobalt Art",
+        "hex": "#F0EFEA"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 30,
+    "description": "Off-white short-sleeve linen blend resort shirt featuring blue hand-drawn line art of plants and furniture.",
+    "gsm": "220 GSM Linen-Cotton Blend",
+    "fit": "Linen Blend / Oversized Fit",
+    "details": [
+      "Off-white short-sleeve linen blend resort shirt featuring blue hand-drawn line art of plants and furniture.",
+      "Breathable lightweight linen-cotton blend for summer layering"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "superman-classic-baseball-shirt",
+    "name": "SUPERMAN CLASSIC",
+    "category": "shirts",
+    "categoryLabel": "SHIRTS",
+    "subtitle": "OVERSIZED FIT / BASEBALL SHIRT",
+    "price": 899,
+    "originalPrice": 1199,
+    "label": "LIMITED",
+    "image": "/PHOTOS/ChatGPT Image Oct 22, 2026, 04_35_20 PM.png",
+    "gallery": [
+      "/PHOTOS/ChatGPT Image Oct 22, 2026, 04_35_20 PM.png"
+    ],
+    "colors": [
+      {
+        "name": "Cream White / Crimson Piping",
+        "hex": "#F5F5F0"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 18,
+    "description": "White button-up baseball jersey style shirt with \"Superman\" script embroidery, red piping, and \"Kryptonite\" patch.",
+    "gsm": "280 GSM Athletic Knit",
+    "fit": "Oversized Fit / Baseball Shirt",
+    "details": [
+      "White button-up baseball jersey style shirt with \"Superman\" script embroidery, red piping, and \"Kryptonite\" patch.",
+      "Tactile cursive script embroidery across chest"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "zora-brown-embroidered-shirt",
+    "name": "ZORA BROWN",
+    "category": "shirts",
+    "categoryLabel": "SHIRTS",
+    "subtitle": "RELAXED FIT / EMBROIDERED SHIRT",
+    "price": 799,
+    "originalPrice": 999,
+    "label": "BEST SELLER",
+    "image": "/PHOTOS/ChatGPT Image Oct 22, 2026, 04_36_25 PM.png",
+    "gallery": [
+      "/PHOTOS/ChatGPT Image Oct 22, 2026, 04_36_25 PM.png"
+    ],
+    "colors": [
+      {
+        "name": "Warm Terracotta Brown",
+        "hex": "#634735"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 22,
+    "description": "Brown relaxed-fit long-sleeve button-down shirt with a embroidered palm tree on the front pocket and sun embroidery on the back.",
+    "gsm": "260 GSM Washed Slub Cotton",
+    "fit": "Relaxed Fit / Embroidered Shirt",
+    "details": [
+      "Brown relaxed-fit long-sleeve button-down shirt with a embroidered palm tree on the front pocket and sun embroidery on the back.",
+      "Detailed needlework palm embroidery on chest pocket"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "enchanted-pink-oversized-shirt",
+    "name": "ENCHANTED PINK",
+    "category": "shirts",
+    "categoryLabel": "SHIRTS",
+    "subtitle": "GRAPHIC PRINT / OVERSIZED SHIRT",
+    "price": 799,
+    "originalPrice": 999,
+    "label": "NEW",
+    "image": "/PHOTOS/ChatGPT Image Oct 22, 2026, 04_37_34 PM.png",
+    "gallery": [
+      "/PHOTOS/ChatGPT Image Oct 22, 2026, 04_37_34 PM.png"
+    ],
+    "colors": [
+      {
+        "name": "Dusty Pink / Crimson Check",
+        "hex": "#D1889C"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 20,
+    "description": "Pink check/plaid long-sleeve shirt featuring a large red Snow White graphic with the word \"Enchanted\" on the back.",
+    "gsm": "280 GSM Brushed Plaid Twill",
+    "fit": "Graphic Print / Oversized Shirt",
+    "details": [
+      "Pink check/plaid long-sleeve shirt featuring a large red Snow White graphic with the word \"Enchanted\" on the back.",
+      "Custom woven pastel pink and cream shadow check"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "mindset-oversized-boxy-tee",
+    "name": "MINDSET OVERSIZED BOXY TEE",
+    "category": "t-shirts",
+    "categoryLabel": "Heavyweight Graphic Tee",
+    "subtitle": "280GSM combed cotton boxy tee featuring high-density typography screenprint on chest and back spine.",
+    "price": 999,
+    "originalPrice": 1299,
+    "label": "BEST SELLER",
+    "image": "/src/assets/images/ChatGPT Image Oct 16, 2026, 04_59_54 PM.png",
+    "gallery": [
+      "/src/assets/images/ChatGPT Image Oct 16, 2026, 04_59_54 PM.png"
+    ],
+    "colors": [
+      {
+        "name": "Warm Ivory",
+        "hex": "#EDE8DF"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 45,
+    "description": "The definitive daily driver tee. Thick 1.25-inch ribbed collar that retains shape, dropped shoulders, and ultra-dense combed cotton.",
+    "gsm": "280GSM 100% Combed Cotton",
+    "fit": "Signature ZEALNIX Boxy Dropped Fit",
+    "details": [
+      "1.25\" thick shape-retention collar",
+      "Tactile puff screenprint"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "feel-the-moment-acid-wash-tee",
+    "name": "FEEL THE MOMENT ACID-WASH TEE",
+    "category": "the-drop",
+    "categoryLabel": "THE DRIP",
+    "subtitle": "Distressed mineral wash streetwear tee with cracked-ink graphic illustration and raw edge styling.",
+    "price": 999,
+    "originalPrice": 1199,
+    "label": "NEW",
+    "image": "/src/assets/images/ChatGPT Image Oct 17, 2026, 03_05_16 PM.png",
+    "gallery": [
+      "/src/assets/images/ChatGPT Image Oct 17, 2026, 03_05_16 PM.png"
+    ],
+    "colors": [
+      {
+        "name": "Acid Washed Black",
+        "hex": "#2A2928"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 30,
+    "description": "Individual hand-applied mineral wash ensures no two garments are identical. Finished with cracked soft-hand vintage screen ink.",
+    "gsm": "260GSM Mineral-Washed Cotton",
+    "fit": "Relaxed Drop-Shoulder Vintage Cut",
+    "details": [
+      "Hand-dyed mineral wash finish",
+      "Soft-touch breathable inks"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "anchor-zeal",
+    "name": "ANCHOR ZEAL",
+    "category": "t-shirts",
+    "categoryLabel": "T-SHIRTS",
+    "subtitle": "OVERSIZED FIT / KNITTED POLO",
+    "price": 799,
+    "originalPrice": 999,
+    "label": "ESSENTIAL",
+    "image": "/PHOTOS/IMG_20261027_174423.jpg",
+    "gallery": [
+      "/PHOTOS/IMG_20261027_174423.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Cream / Navy Collar",
+        "hex": "#EDE8D0"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 25,
+    "description": "Cream/beige ribbed knit polo shirt with dark blue collar and anchor chest patch logo.",
+    "gsm": "320 GSM Ribbed Knit Cotton",
+    "fit": "OVERSIZED FIT / KNITTED POLO",
+    "details": [
+      "Cream/beige ribbed knit polo shirt with dark blue collar and anchor chest patch logo.",
+      "Heavyweight ribbed cotton knit structure",
+      "Contrast dark navy collar and placket",
+      "Tactile embroidered anchor chest badge"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "taurus-world",
+    "name": "TAURUS WORLD",
+    "category": "t-shirts",
+    "categoryLabel": "T-SHIRTS",
+    "subtitle": "SUPER OVERSIZED FIT / HEAVY GAUGE",
+    "price": 679,
+    "originalPrice": 899,
+    "label": "HEAVYWEIGHT",
+    "image": "/PHOTOS/IMG_20261027_174437.jpg",
+    "gallery": [
+      "/PHOTOS/IMG_20261027_174437.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Acid Washed Charcoal",
+        "hex": "#2C2B2A"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 30,
+    "description": "Dark grey/black heavy gauge acid wash tee with intricate gold/brown taurus bull back graphic.",
+    "gsm": "300 GSM Heavy Gauge Jersey",
+    "fit": "SUPER OVERSIZED FIT / HEAVY GAUGE",
+    "details": [
+      "Dark grey/black heavy gauge acid wash tee with intricate gold/brown taurus bull back graphic.",
+      "300 GSM ultra-dense combed cotton",
+      "Distressed vintage acid wash treatment",
+      "High-density screenprinted taurus artwork on back"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "phoenix-rising",
+    "name": "PHOENIX RISING",
+    "category": "t-shirts",
+    "categoryLabel": "T-SHIRTS",
+    "subtitle": "OVERSIZED FIT / HEAVY GAUGE",
+    "price": 499,
+    "originalPrice": 699,
+    "label": "JUST IN",
+    "image": "/PHOTOS/IMG_20261027_174451.jpg",
+    "gallery": [
+      "/PHOTOS/IMG_20261027_174451.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black",
+        "hex": "#111211"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 35,
+    "description": "Black oversized tee with Japanese Kanji chest graphic and large golden phoenix back print.",
+    "gsm": "280 GSM Heavy Combed Cotton",
+    "fit": "OVERSIZED FIT / HEAVY GAUGE",
+    "details": [
+      "Black oversized tee with Japanese Kanji chest graphic and large golden phoenix back print.",
+      "Golden metallic and discharge screenprint ink",
+      "Japanese typography chest detailing"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "hokage-4ever",
+    "name": "HOKAGE 4EVER",
+    "category": "t-shirts",
+    "categoryLabel": "T-SHIRTS",
+    "subtitle": "OVERSIZED FIT / ANIME GRAPHIC",
+    "price": 599,
+    "originalPrice": 799,
+    "label": "CULT CLASSIC",
+    "image": "/PHOTOS/IMG_20261027_174510.jpg",
+    "gallery": [
+      "/PHOTOS/IMG_20261027_174510.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Off-White Ivory",
+        "hex": "#F3EFE6"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 28,
+    "description": "Cream/off-white tee with Fourth Hokage Minato Namikaze / Naruto back artwork and Japanese typography.",
+    "gsm": "280 GSM Ring-Spun Cotton",
+    "fit": "OVERSIZED FIT / ANIME GRAPHIC",
+    "details": [
+      "Cream/off-white tee with Fourth Hokage Minato Namikaze / Naruto back artwork and Japanese typography.",
+      "Authentic manga artwork and Kanji typography",
+      "Pre-washed soft hand-feel combed cotton"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "majnu-bhai-masterpiece",
+    "name": "MAJNU BHAI MASTERPIECE",
+    "category": "t-shirts",
+    "categoryLabel": "T-SHIRTS",
+    "subtitle": "OVERSIZED FIT / ART PRINT",
+    "price": 699,
+    "originalPrice": 899,
+    "label": "STREET FAV",
+    "image": "/PHOTOS/IMG_20261027_174521.jpg",
+    "gallery": [
+      "/PHOTOS/IMG_20261027_174521.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Heather Grey",
+        "hex": "#D1D0CE"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 30,
+    "description": "Light grey oversized tee featuring the iconic Welcome movie horse painting with \"MASTERPIECE\" print.",
+    "gsm": "280 GSM Single Jersey",
+    "fit": "OVERSIZED FIT / ART PRINT",
+    "details": [
+      "Light grey oversized tee featuring the iconic Welcome movie horse painting with \"MASTERPIECE\" print.",
+      "Pop-culture cult art front graphic print",
+      "Thick shape-retaining ribbed neckline"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "powerpuff-varsity",
+    "name": "POWERPUFF VARSITY",
+    "category": "t-shirts",
+    "categoryLabel": "T-SHIRTS",
+    "subtitle": "OVERSIZED FIT / RAGLAN TEE",
+    "price": 499,
+    "originalPrice": 699,
+    "label": "TRENDING",
+    "image": "/PHOTOS/IMG_20261027_174535.jpg",
+    "gallery": [
+      "/PHOTOS/IMG_20261027_174535.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Pastel Colorblock",
+        "hex": "#D7E0EB"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 35,
+    "description": "Pastel multi-color block raglan jersey featuring Powerpuff Girls baseball graphic back print.",
+    "gsm": "260 GSM Sport Mesh & Jersey",
+    "fit": "OVERSIZED FIT / RAGLAN TEE",
+    "details": [
+      "Pastel multi-color block raglan jersey featuring Powerpuff Girls baseball graphic back print.",
+      "Varsity baseball jersey raglan cut",
+      "Playful 90s cartoon back print"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "spongebob-chill-red",
+    "name": "SPONGEBOB CHILL RED",
+    "category": "t-shirts",
+    "categoryLabel": "T-SHIRTS",
+    "subtitle": "OVERSIZED FIT / ALL-OVER SKETCH",
+    "price": 399,
+    "originalPrice": 599,
+    "label": "STEAL DEAL",
+    "image": "/PHOTOS/IMG_20261027_174545.jpg",
+    "gallery": [
+      "/PHOTOS/IMG_20261027_174545.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Rust Red",
+        "hex": "#A4392D"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 40,
+    "description": "Rust red oversized graphic tee covered in black SpongeBob line-art doodles and yellow \"Chill Vibes\" front text.",
+    "gsm": "260 GSM Combed Cotton",
+    "fit": "OVERSIZED FIT / ALL-OVER SKETCH",
+    "details": [
+      "Rust red oversized graphic tee covered in black SpongeBob line-art doodles and yellow \"Chill Vibes\" front text.",
+      "All-over cartoon doodle screenprint",
+      "Enzyme washed rust red tone"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "superman-shield-vintage",
+    "name": "SUPERMAN SHIELD VINTAGE",
+    "category": "t-shirts",
+    "categoryLabel": "T-SHIRTS",
+    "subtitle": "OVERSIZED FIT / ACID WASH",
+    "price": 688,
+    "originalPrice": 899,
+    "label": "VINTAGE WASH",
+    "image": "/PHOTOS/IMG_20261027_174559.jpg",
+    "gallery": [
+      "/PHOTOS/IMG_20261027_174559.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Vintage Acid Charcoal",
+        "hex": "#353535"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 25,
+    "description": "Vintage charcoal grey acid wash tee featuring an embroidered muted gold Superman shield chest patch.",
+    "gsm": "290 GSM Heavy Mineral Wash Jersey",
+    "fit": "OVERSIZED FIT / ACID WASH",
+    "details": [
+      "Vintage charcoal grey acid wash tee featuring an embroidered muted gold Superman shield chest patch.",
+      "Heavily acid washed lived-in texture",
+      "Embroidered metallic gold shield patch on chest"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "hello-kitty-sky",
+    "name": "HELLO KITTY SKY",
+    "category": "t-shirts",
+    "categoryLabel": "T-SHIRTS",
+    "subtitle": "OVERSIZED FIT / SEQUIN EMBROIDERED",
+    "price": 599,
+    "originalPrice": 799,
+    "label": "LIMITED RUN",
+    "image": "/PHOTOS/IMG_20261027_174611.jpg",
+    "gallery": [
+      "/PHOTOS/IMG_20261027_174611.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Sky Blue",
+        "hex": "#87CEEB"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 22,
+    "description": "Sky blue oversized tee featuring sketch-style Hello Kitty graphics with a red sequin embroidered bow accent.",
+    "gsm": "270 GSM Soft Ring-Spun Cotton",
+    "fit": "OVERSIZED FIT / SEQUIN EMBROIDERED",
+    "details": [
+      "Sky blue oversized tee featuring sketch-style Hello Kitty graphics with a red sequin embroidered bow accent.",
+      "Shimmering red sequin embroidered bow",
+      "Minimalist hand-sketch character art"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "minions-desi-bello",
+    "name": "MINIONS DESI BELLO",
+    "category": "t-shirts",
+    "categoryLabel": "T-SHIRTS",
+    "subtitle": "OVERSIZED FIT / APPLIQUE PATCH",
+    "price": 899,
+    "originalPrice": 1099,
+    "label": "VAULT DROP",
+    "image": "/PHOTOS/IMG_20261027_174623.jpg",
+    "gallery": [
+      "/PHOTOS/IMG_20261027_174623.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Beige / Floral Contrast",
+        "hex": "#DFD8C4"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 20,
+    "description": "Beige tee featuring floral patterned sleeves and a Minion applique patch on the chest with \"BELLO!\" text.",
+    "gsm": "300 GSM Heavyweight Cotton",
+    "fit": "OVERSIZED FIT / APPLIQUE PATCH",
+    "details": [
+      "Beige tee featuring floral patterned sleeves and a Minion applique patch on the chest with \"BELLO!\" text.",
+      "Intricate printed floral pattern sleeve panels",
+      "Embroidered tactile Minion chest applique badge"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "chaos-club-hoodie",
+    "name": "CHAOS CLUB HEAVY HOODIE",
+    "category": "the-drop",
+    "categoryLabel": "460GSM Loopback Terry Hoodie",
+    "subtitle": "Double-layered oversized streetwear hoodie with metal aglets, distressed raw seams, and tactile front emblem.",
+    "price": 1399,
+    "originalPrice": 1799,
+    "label": "BEST SELLER",
+    "image": "/src/assets/images/product_chaos_club_1791889113498.jpg",
+    "gallery": [
+      "/src/assets/images/product_chaos_club_1791889113498.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Deep Graphite",
+        "hex": "#232323"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 20,
+    "description": "Heavyweight 460GSM loopback cotton hoodie built for cold streets and editorial silhouette drape. Double-walled crossover hood.",
+    "gsm": "460GSM French Terry Combed Loopback",
+    "fit": "Oversized Boxy Silhouette with Dropped Shoulders",
+    "details": [
+      "Seamless double-layered hood",
+      "Custom brushed stainless aglets"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "espresso-shearling-jacket",
+    "name": "ESPRESSO SHEARLING JACKET",
+    "category": "the-drop",
+    "categoryLabel": "THE DRIP",
+    "subtitle": "OVERSIZED FIT / FAUX LEATHER & FLEECE",
+    "price": 1499,
+    "originalPrice": 1899,
+    "label": "VAULT DROP",
+    "image": "/Photos/IMG_20261027_220212.jpg",
+    "gallery": [
+      "/Photos/IMG_20261027_220212.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Espresso Brown / Beige Fleece",
+        "hex": "#3B2F2F"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 20,
+    "description": "Dark brown oversized faux leather jacket featuring a contrasting beige fleece shearling collar and button-up front.",
+    "gsm": "Heavy Faux Leather & Shearling Fleece",
+    "fit": "OVERSIZED FIT / FAUX LEATHER & FLEECE",
+    "details": [
+      "Dark brown oversized faux leather jacket featuring a contrasting beige fleece shearling collar and button-up front.",
+      "Heavyweight textured faux leather construction",
+      "Plush contrasting beige sherpa fleece shearling collar",
+      "Custom embossed horn buttons along front placket",
+      "Relaxed boxy streetwear fit engineered for layering"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "yin-yang-rose-knit-bomber",
+    "name": "YIN-YANG ROSE KNIT BOMBER",
+    "category": "the-drop",
+    "categoryLabel": "THE DRIP",
+    "subtitle": "OVERSIZED FIT / JACQUARD ZIP JACKET",
+    "price": 1399,
+    "originalPrice": 1799,
+    "label": "TRENDING",
+    "image": "/Photos/IMG_20261027_220222.jpg",
+    "gallery": [
+      "/Photos/IMG_20261027_220222.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Beige / Crimson Panel",
+        "hex": "#D8CBB5"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 22,
+    "description": "Beige knit zip-up bomber jacket featuring all-over rose patterns, red color-block panels, and a prominent yin-yang chest embroidery.",
+    "gsm": "420 GSM Jacquard Knit",
+    "fit": "OVERSIZED FIT / JACQUARD ZIP JACKET",
+    "details": [
+      "Beige knit zip-up bomber jacket featuring all-over rose patterns, red color-block panels, and a prominent yin-yang chest embroidery.",
+      "420 GSM high-gauge jacquard knit weave",
+      "Intricate all-over floral botanical rose motifs",
+      "Contrasting crimson red sleeve color-block panels",
+      "Heavy industrial silver zip closure"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "ivory-botanical-dress",
+    "name": "IVORY BOTANICAL DRESS",
+    "category": "the-drop",
+    "categoryLabel": "THE DRIP",
+    "subtitle": "SMOCKED FIT / LINEN BLEND DRESS",
+    "price": 1199,
+    "originalPrice": 1499,
+    "label": "CULT CLASSIC",
+    "image": "/Photos/IMG_20261027_220233.jpg",
+    "gallery": [
+      "/Photos/IMG_20261027_220233.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Off-White Ivory",
+        "hex": "#FAF9F5"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 25,
+    "description": "Off-white strappy smocked dress featuring delicate embroidered leaf and vine details on the skirt.",
+    "gsm": "240 GSM Linen-Cotton Blend",
+    "fit": "SMOCKED FIT / LINEN BLEND DRESS",
+    "details": [
+      "Off-white strappy smocked dress featuring delicate embroidered leaf and vine details on the skirt.",
+      "Breathable lightweight premium linen-cotton blend",
+      "Form-fitting elasticated smocked bodice with adjustable straps",
+      "Detailed monochrome vine and botanical leaf needlework",
+      "Flowing A-line streetwear silhouette"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "cherry-check-charm-dress",
+    "name": "CHERRY CHECK CHARM DRESS",
+    "category": "the-drop",
+    "categoryLabel": "THE DRIP",
+    "subtitle": "GINGHAM FIT / EMBROIDERED SHIRT DRESS",
+    "price": 1299,
+    "originalPrice": 1599,
+    "label": "STREET FAV",
+    "image": "/Photos/IMG_20261027_220247.jpg",
+    "gallery": [
+      "/Photos/IMG_20261027_220247.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Cherry Gingham",
+        "hex": "#B82D38"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 20,
+    "description": "Red and white gingham check button-down shirt dress accented with quirky embroidered patches along the placket.",
+    "gsm": "260 GSM Woven Cotton Gingham",
+    "fit": "GINGHAM FIT / EMBROIDERED SHIRT DRESS",
+    "details": [
+      "Red and white gingham check button-down shirt dress accented with quirky embroidered patches along the placket.",
+      "Woven crimson cherry and cream gingham check pattern",
+      "Full-length button-down front with shirt collar",
+      "Whimsical novelty charm embroideries and tactile patches",
+      "Relaxed everyday streetwear shirt dress fit"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "mythic-tale-vest",
+    "name": "MYTHIC TALE VEST",
+    "category": "the-drop",
+    "categoryLabel": "THE DRIP",
+    "subtitle": "CROPPED FIT / EMBROIDERED TANK VEST",
+    "price": 899,
+    "originalPrice": 1199,
+    "label": "LIMITED RUN",
+    "image": "/Photos/IMG_20261027_220342.jpg",
+    "gallery": [
+      "/Photos/IMG_20261027_220342.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Pitch Black / Multi Embroidery",
+        "hex": "#111211"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 30,
+    "description": "Black button-up cropped vest featuring whimsical fairytale and magical motif embroideries (glass slippers, tarot cards, poison apple).",
+    "gsm": "320 GSM Structured Cotton Twill",
+    "fit": "CROPPED FIT / EMBROIDERED TANK VEST",
+    "details": [
+      "Black button-up cropped vest featuring whimsical fairytale and magical motif embroideries (glass slippers, tarot cards, poison apple).",
+      "Structured 320 GSM cotton twill canvas",
+      "Hand-drawn fairytale icons rendered in high-density embroidery",
+      "Button-up front closure with notched V-neck cut",
+      "Cropped waist profile ideal for layered styling"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "1963-x-mutant-leather-jacket",
+    "name": "1963 X-MUTANT LEATHER JACKET",
+    "category": "the-drop",
+    "categoryLabel": "THE DRIP",
+    "subtitle": "REGULAR FIT / COLOR-BLOCK BOMBER",
+    "price": 1699,
+    "originalPrice": 2199,
+    "label": "HEAVYWEIGHT",
+    "image": "/Photos/IMG_20261028_105301.jpg",
+    "gallery": [
+      "/Photos/IMG_20261028_105301.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Stealth Black / Mutant Yellow",
+        "hex": "#181818"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 18,
+    "description": "Black faux leather jacket with bold yellow cross-chests panels, \"1963\" chest typography, and an X-Men style emblem patch.",
+    "gsm": "Heavy Faux Leather & Satin Lining",
+    "fit": "REGULAR FIT / COLOR-BLOCK BOMBER",
+    "details": [
+      "Black faux leather jacket with bold yellow cross-chests panels, \"1963\" chest typography, and an X-Men style emblem patch.",
+      "Heavyweight textured faux leather with smooth satin lining",
+      "High-contrast canary yellow chest chevron color-blocking",
+      "Tactile embroidered chest emblem patch and \"1963\" archival typography",
+      "Ribbed bomber collar, cuffs, and hem band"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "baxi-tartan-half-zip-pullover",
+    "name": "BAXI TARTAN HALF-ZIP PULLOVER",
+    "category": "the-drop",
+    "categoryLabel": "THE DRIP",
+    "subtitle": "OVERSIZED FIT / CABLE KNIT APPLIQUE",
+    "price": 1299,
+    "originalPrice": 1699,
+    "label": "ESSENTIAL",
+    "image": "/Photos/IMG_20261028_110521.jpg",
+    "gallery": [
+      "/Photos/IMG_20261028_110521.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Maroon / Navy Block",
+        "hex": "#581825"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 22,
+    "description": "Maroon and navy color-blocked cable knit half-zip sweater featuring a crest applique chest patch and textured panels.",
+    "gsm": "450 GSM Heavy Cable Knit",
+    "fit": "OVERSIZED FIT / CABLE KNIT APPLIQUE",
+    "details": [
+      "Maroon and navy color-blocked cable knit half-zip sweater featuring a crest applique chest patch and textured panels.",
+      "450 GSM heavyweight chunky cable-knit weave",
+      "Deep maroon, forest, and navy contrast panels",
+      "Embroidered collegiate crest patch at left chest",
+      "Quarter-zip funnel neck with chunky puller"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "cranberry-man-of-steel-sweater",
+    "name": "CRANBERRY MAN OF STEEL SWEATER",
+    "category": "the-drop",
+    "categoryLabel": "THE DRIP",
+    "subtitle": "OVERSIZED FIT / TEXTURED KNIT PULLOVER",
+    "price": 1199,
+    "originalPrice": 1599,
+    "label": "JUST IN",
+    "image": "/Photos/IMG_20261028_110608.jpg",
+    "gallery": [
+      "/Photos/IMG_20261028_110608.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Royal Blue / Cranberry Red",
+        "hex": "#1C3F73"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 24,
+    "description": "Rich blue oversized crewneck sweater with a bold textured dark red Superman 'S' logo knit across the chest.",
+    "gsm": "420 GSM Textured Wool-Cotton Blend",
+    "fit": "OVERSIZED FIT / TEXTURED KNIT PULLOVER",
+    "details": [
+      "Rich blue oversized crewneck sweater with a bold textured dark red Superman 'S' logo knit across the chest.",
+      "420 GSM textured wool-cotton blend crewneck pullover",
+      "Deep royal blue ground with cranberry-toned embossed shield knit",
+      "Drop shoulder with ribbed collar, hem, and cuffs",
+      "Warm relaxed cut tailored for winter streetwear"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "alpine-peak-fleece-zip-up",
+    "name": "ALPINE PEAK FLEECE ZIP-UP",
+    "category": "the-drop",
+    "categoryLabel": "THE DRIP",
+    "subtitle": "OVERSIZED FIT / PREMIUM HEAVY FLEECE",
+    "price": 1599,
+    "originalPrice": 1999,
+    "label": "VAULT DROP",
+    "image": "/Photos/IMG_20261028_110620.jpg",
+    "gallery": [
+      "/Photos/IMG_20261028_110620.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Cream / Mountain Navy",
+        "hex": "#EAE5D9"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 18,
+    "description": "Cream fleece zip-up jacket detailed with a navy mountain landscape graphic and embroidered winter sports accents.",
+    "gsm": "480 GSM Premium Sherpa Fleece",
+    "fit": "OVERSIZED FIT / PREMIUM HEAVY FLEECE",
+    "details": [
+      "Cream fleece zip-up jacket detailed with a navy mountain landscape graphic and embroidered winter sports accents.",
+      "480 GSM ultra-dense thermal sherpa fleece body",
+      "Scenic navy mountain landscape jacquard graphic across chest",
+      "Embroidered alpine expedition badges and woven zipper pull",
+      "Drawcord hem for adjustable silhouette taper"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "prep-07-v-neck-sweater",
+    "name": "PREP 07 V-NECK SWEATER",
+    "category": "the-drop",
+    "categoryLabel": "THE DRIP",
+    "subtitle": "OVERSIZED FIT / STRIPED RIB KNIT",
+    "price": 1099,
+    "originalPrice": 1399,
+    "label": "STEAL DEAL",
+    "image": "/Photos/IMG_20261028_110533.jpg",
+    "gallery": [
+      "/Photos/IMG_20261028_110533.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Ivory / Ivy Green & Red",
+        "hex": "#F0ECE1"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 25,
+    "description": "Cream cable-knit V-neck sweater featuring green and red striped ribbed trims and a bold \"07\" felt patch logo.",
+    "gsm": "400 GSM Ribbed Cable Knit",
+    "fit": "OVERSIZED FIT / STRIPED RIB KNIT",
+    "details": [
+      "Cream cable-knit V-neck sweater featuring green and red striped ribbed trims and a bold \"07\" felt patch logo.",
+      "400 GSM chunky cable-knit body in antique ivory",
+      "Varsity green and crimson striped ribbing on collar and cuffs",
+      "Vintage chenille/felt \"07\" athletic chest patch",
+      "Relaxed cricket/prep streetwear drape"
+    ],
+    "inStock": true
+  },
+  {
+    "id": "omnitrix-tech-fleece-hoodie",
+    "name": "OMNITRIX TECH FLEECE HOODIE",
+    "category": "the-drop",
+    "categoryLabel": "THE DRIP",
+    "subtitle": "OVERSIZED FIT / PREMIUM HEAVY FLEECE",
+    "price": 1699,
+    "originalPrice": 2199,
+    "label": "VAULT DROP",
+    "image": "/Photos/IMG_20261028_111620.jpg",
+    "gallery": [
+      "/Photos/IMG_20261028_111620.jpg"
+    ],
+    "colors": [
+      {
+        "name": "Cyber Heather Grey / Onyx",
+        "hex": "#8E9194"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 20,
+    "description": "Grey and black color-blocked heavy fleece hoodie featuring geometric cyber graphic sleeves and a central embroidered watch logo.",
+    "gsm": "460 GSM Heavy Loopback Fleece",
+    "fit": "OVERSIZED FIT / PREMIUM HEAVY FLEECE",
+    "details": [
+      "Grey and black color-blocked heavy fleece hoodie featuring geometric cyber graphic sleeves and a central embroidered watch logo.",
+      "460 GSM heavyweight combed loopback cotton fleece",
+      "Charcoal grey body with onyx black cyber panel inserts",
+      "Geometric sleeve graphics and central embroidered Omnitrix device insignia",
+      "Double-walled hood with metal-tipped drawcords"
+    ],
+    "inStock": true
+  }
+]

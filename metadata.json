@@ -1,0 +1,6 @@
+{
+  "name": "ZEALNIX — Premium Gen-Z Streetwear",
+  "description": "Expressive, rebellious Gen-Z streetwear e-commerce platform featuring graphic apparel, on-demand printing, and custom drops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

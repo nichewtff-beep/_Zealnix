@@ -1,0 +1,253 @@
+@import "tailwindcss";
+
+/* ==========================================================================
+   ZEALNIX STREETWEAR 4-FONT SYSTEM:
+   1. Anton: Primary display font for hero headline & major section headings
+   2. Space Grotesk: Primary brand font for nav, product names, buttons, prices, labels
+   3. Inter: Body font for descriptions, product details, size options, forms, checkout
+   4. Caveat: Occasional handwritten accent font for decorative annotations
+   ========================================================================== */
+
+:root {
+  --color-page-base: #EAE4DC;
+  --color-roast-text: #261C14;
+  --color-deep-espresso: #3C2A21;
+  --color-warm-camel: #D5C3AA;
+
+  /* Theme tokens */
+  --theme-bg-base: #EAE4DC;
+  --theme-text-primary: #261C14;
+  --theme-dark-contrast: #3C2A21;
+  --theme-mid-accent: #D5C3AA;
+  --theme-card-bg: #F4EFEA;
+  --theme-border: #D5C3AA;
+
+  /* Typography variables */
+  --font-family-headline: 'Anton', sans-serif;
+  --font-family-brand: 'Space Grotesk', sans-serif;
+  --font-family-body: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-family-hand: 'Caveat', cursive;
+  --font-family-mono: 'Space Mono', monospace;
+}
+
+@theme {
+  --color-base: #EAE4DC;
+  --color-parchment: #EAE4DC;
+  --color-roast: #261C14;
+  --color-espresso: #3C2A21;
+  --color-camel: #D5C3AA;
+
+  /* Mappings for legacy utility classes to Espresso theme */
+  --color-jetblack: #3C2A21;
+  --color-graphite: #3C2A21;
+  --color-graphite-light: #523B2F;
+  --color-graphite-dark: #261C14;
+  --color-ivory: #EAE4DC;
+  --color-ivory-dark: #DECDBE;
+  --color-lime: #D5C3AA;
+  --color-lime-hover: #C5B095;
+  --color-concrete: #D5C3AA;
+  --color-concrete-dark: #B5A086;
+
+  /* 4 Core Google Fonts System for ZEALNIX */
+  --font-anton: "Anton", sans-serif;
+  --font-display: "Anton", sans-serif;
+  --font-headline: "Anton", sans-serif;
+  --font-hero: "Anton", sans-serif;
+  --font-bebas: "Anton", sans-serif;
+
+  --font-grotesk: "Space Grotesk", sans-serif;
+  --font-brand: "Space Grotesk", sans-serif;
+
+  --font-inter: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
+  --font-mono: "Space Mono", monospace;
+  --font-caveat: "Caveat", cursive;
+  --font-hand: "Caveat", cursive;
+  --font-script: "Caveat", cursive;
+}
+
+/* Base Body & Universal Text Styling: Inter for descriptions and comfortable reading */
+body {
+  background-color: #EAE4DC;
+  color: #261C14;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background-color: #3C2A21;
+  color: #EAE4DC;
+}
+
+/* 1. Anton: Primary display font for hero headline & major section headings */
+.font-anton,
+.font-display,
+.font-headline,
+.font-hero,
+.font-bebas {
+  font-family: 'Anton', sans-serif !important;
+  text-transform: uppercase;
+  letter-spacing: -0.015em;
+}
+
+/* 2. Space Grotesk: Brand font for navigation, product names, buttons, prices, labels */
+.font-grotesk,
+.font-brand,
+.font-btn,
+.font-badge,
+.font-nav,
+.font-label,
+.font-price,
+.font-product-name,
+.font-product-price {
+  font-family: 'Space Grotesk', sans-serif !important;
+}
+
+/* 3. Inter: Body descriptions, product details, size options, forms, filters, and checkout */
+.font-inter,
+.font-body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+
+/* 4. Caveat: Occasional handwritten accent font for decorative annotations */
+.font-script,
+.font-hand,
+.font-marker,
+.font-caveat {
+  font-family: 'Caveat', cursive !important;
+  font-weight: 700;
+  letter-spacing: normal;
+}
+
+/* Space Grotesk Buttons & Nav */
+button,
+.btn {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+/* Price tabular numerals */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Espresso Texture & Gradients */
+.bg-noise {
+  background-image: radial-gradient(rgba(213, 195, 170, 0.08) 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #3C2A21;
+}
+::-webkit-scrollbar-thumb {
+  background: #D5C3AA;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #EAE4DC;
+}
+
+/* ==========================================================================
+   Espresso Monochromatic Class Overrides
+   Ensures seamless application across all component layouts & legacy classes
+   ========================================================================== */
+
+/* Main Backgrounds / Page Base (#EAE4DC) */
+.bg-\[\#F2F0E9\],
+.bg-\[\#EAE7DC\],
+.bg-\[\#E8E6DF\],
+.bg-\[\#E5E2D6\],
+.bg-\[\#FAF8F5\] {
+  background-color: #EAE4DC !important;
+}
+
+/* Primary Text / Headings (#261C14) */
+.text-\[\#292A29\],
+.text-\[\#0B0B0B\] {
+  color: #261C14 !important;
+}
+
+/* Inverse Text (#EAE4DC) when inside dark containers */
+.text-\[\#F2F0E9\],
+.text-\[\#FAF8F5\],
+.text-\[\#E4E1D7\] {
+  color: #EAE4DC !important;
+}
+
+/* Dark Contrast Elements (#3C2A21) - Headers, Dark Footers, Buttons, Badges */
+.bg-\[\#0B0B0B\],
+.bg-\[\#111111\],
+.bg-\[\#121212\],
+.bg-\[\#141414\],
+.bg-\[\#161616\],
+.bg-\[\#181918\],
+.bg-\[\#202120\] {
+  background-color: #3C2A21 !important;
+}
+
+/* Mid-Tone Accent Elements (#D5C3AA) - Warm Camel for Buttons, Badges, Highlights */
+.bg-\[\#D7FF00\],
+.hover\:bg-\[\#D7FF00\]:hover,
+.hover\:bg-\[\#C6EC00\]:hover {
+  background-color: #D5C3AA !important;
+  color: #261C14 !important;
+}
+
+.text-\[\#D7FF00\],
+.hover\:text-\[\#D7FF00\]:hover {
+  color: #D5C3AA !important;
+}
+
+/* Accent Borders (#D5C3AA) */
+.border-\[\#D7FF00\],
+.hover\:border-\[\#D7FF00\]:hover {
+  border-color: #D5C3AA !important;
+}
+
+.border-\[\#292A29\],
+.border-\[\#0B0B0B\] {
+  border-color: #3C2A21 !important;
+}
+
+.border-\[\#262626\],
+.border-\[\#333333\],
+.border-\[\#3E403D\],
+.border-\[\#292A29\]\/10,
+.border-\[\#292A29\]\/15,
+.border-\[\#292A29\]\/20,
+.border-black\/20,
+.border-black\/10 {
+  border-color: #D5C3AA !important;
+}
+
+/* Focus Rings and Outlines */
+.ring-\[\#D7FF00\] {
+  --tw-ring-color: #D5C3AA !important;
+}
+.ring-\[\#0B0B0B\] {
+  --tw-ring-color: #3C2A21 !important;
+}
+
+/* ==========================================================================
+   JET BLACK HEADER & FOOTER SECTIONS (#000000)
+   ========================================================================== */
+header,
+.header-jetblack,
+header.header-jetblack {
+  background-color: #000000 !important;
+  color: #F2F0E9 !important;
+}
+
+footer,
+.footer-jetblack,
+footer.footer-jetblack {
+  background-color: #000000 !important;
+  color: #F2F0E9 !important;
+}

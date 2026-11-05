@@ -1,0 +1,76 @@
+[
+  {
+    "id": "ZNX-2026-9481",
+    "date": "2026-10-21T18:45:00.000Z",
+    "items": [
+      {
+        "id": "item-1",
+        "productId": "chaos-club-hoodie",
+        "name": "CHAOS CLUB HEAVY HOODIE",
+        "price": 1399,
+        "image": "/src/assets/images/product_chaos_club_1791889113498.jpg",
+        "selectedColor": "Deep Graphite",
+        "selectedSize": "L",
+        "quantity": 1
+      }
+    ],
+    "subtotal": 1399,
+    "discount": 0,
+    "shipping": 0,
+    "total": 1399,
+    "status": "Printing",
+    "paymentStatus": "Paid (Razorpay UPI)",
+    "trackingNumber": "ZNX-BLR-88349",
+    "shippingAddress": {
+      "fullName": "Aarav Mehta",
+      "email": "aarav.m@example.com",
+      "address": "42 Brigade Road, Indiranagar",
+      "city": "Bengaluru, Karnataka",
+      "postalCode": "560038",
+      "country": "India"
+    },
+    "paymentMethod": "UPI / NetBanking"
+  },
+  {
+    "id": "ZNX-2026-9477",
+    "date": "2026-10-20T14:20:00.000Z",
+    "items": [
+      {
+        "id": "item-2",
+        "productId": "archive-wide-cargo-jeans",
+        "name": "ARCHIVE WIDE-LEG CARGO JEANS",
+        "price": 1499,
+        "image": "/src/assets/images/ChatGPT Image Oct 17, 2026, 03_17_58 PM.png",
+        "selectedColor": "Washed Charcoal",
+        "selectedSize": "32",
+        "quantity": 1
+      },
+      {
+        "id": "item-3",
+        "productId": "mindset-oversized-boxy-tee",
+        "name": "MINDSET OVERSIZED BOXY TEE",
+        "price": 999,
+        "image": "/src/assets/images/ChatGPT Image Oct 16, 2026, 04_59_54 PM.png",
+        "selectedColor": "Warm Ivory",
+        "selectedSize": "L",
+        "quantity": 1
+      }
+    ],
+    "subtotal": 2498,
+    "discount": 250,
+    "shipping": 0,
+    "total": 2248,
+    "status": "Dispatched",
+    "paymentStatus": "Paid (Credit Card)",
+    "trackingNumber": "ZNX-BOM-10492",
+    "shippingAddress": {
+      "fullName": "Rhea Sen",
+      "email": "rhea.sen@example.com",
+      "address": "Flat 8B, Sea View Apts, Bandra West",
+      "city": "Mumbai, Maharashtra",
+      "postalCode": "400050",
+      "country": "India"
+    },
+    "paymentMethod": "Credit Card (256-bit SSL)"
+  }
+]
