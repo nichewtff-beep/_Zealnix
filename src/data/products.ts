@@ -120,9 +120,9 @@ export const PRODUCTS: Product[] = [
     price: 1499,
     originalPrice: 1699,
     label: 'LIMITED',
-    image: '/src/assets/images/streetwear_baggy_jeans_1792147547393.jpg',
+    image: '/images/Gemini_Generated_Image_c7f3wyc7f3wyc7f3.png',
     gallery: [
-      '/src/assets/images/streetwear_baggy_jeans_1792147547393.jpg',
+      '/images/Gemini_Generated_Image_c7f3wyc7f3wyc7f3.png',
       '/src/assets/images/story_screenprint_closeup_1791889152422.jpg'
     ],
     colors: [
@@ -821,9 +821,9 @@ export const PRODUCTS: Product[] = [
     price: 1399,
     originalPrice: 1799,
     label: 'BEST SELLER',
-    image: '/src/assets/images/product_chaos_club_1791889113498.jpg',
+    image: '/images/Gemini_Generated_Image_ouymiuouymiuouym.png',
     gallery: [
-      '/src/assets/images/product_chaos_club_1791889113498.jpg',
+      '/images/Gemini_Generated_Image_ouymiuouymiuouym.png',
       '/src/assets/images/story_screenprint_closeup_1791889152422.jpg',
       '/src/assets/images/brand_editorial_texture_1791889116081.jpg'
     ],

@@ -1,7 +1,8 @@
 import React from 'react';
 import { ArrowRight, Sparkles } from 'lucide-react';
-import { HERO_IMAGE, STORY_IMAGE_1, STORY_IMAGE_2 } from '../data/products';
 import chaosAdImage from '../assets/images/Chaos Oversized Fit Streetwear Ad.png';
+import weaveFabricImage from '../assets/images/Gemini_Generated_Image_bzqkm8bzqkm8bzqk.png';
+import puffScreenprintImage from '../assets/images/Gemini_Generated_Image_eou17peou17peou1.png';
 
 interface PromotionalBannerProps {
   onExploreClick: () => void;
@@ -115,7 +116,7 @@ export const PromotionalBanner: React.FC<PromotionalBannerProps> = ({
               {/* Back photo: Macro fabric label */}
               <div className="absolute top-0 right-2 w-48 sm:w-56 aspect-square bg-[#111111] border border-[#3E403D] p-1.5 shadow-xl rotate-4 transition-transform duration-300 hover:rotate-2 z-10">
                 <img
-                  src={STORY_IMAGE_1}
+                  src={weaveFabricImage}
                   alt="Woven garment fabric and stitching detail"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"
@@ -132,7 +133,7 @@ export const PromotionalBanner: React.FC<PromotionalBannerProps> = ({
                   TACTILE
                 </div>
                 <img
-                  src={STORY_IMAGE_2}
+                  src={puffScreenprintImage}
                   alt="Screen printing ink texture on heavy fabric"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"
